@@ -1,9 +1,9 @@
 {
-    "name": "GPlink_Bot",
-    "description": "Make short link by using GPlink API key",
+    "name": "PdiskShortener-Bot",
+    "description": "Make short link by using PdiskShortener API key",
     "keywords": [
         "telegram",
-        "gplink"
+        "PdiskShortener"
     ],
     "website": "https://github.com/Mahesh0253/GPlink-bot",
     "repository": "https://github.com/Mahesh0253/GPlink-bot",
@@ -21,7 +21,7 @@
             "value": ""
         },
         "API_KEY": {
-            "description": "Get API key from https://gplinks.in/member/tools/api",
+            "description": "Get API key from https://PdiskShortner.net/member/tools/api",
             "required": false
         }
     },
