@@ -1,4 +1,4 @@
-# PdiskShortener-bot
+# PdiskShortener-Bot
 Make short link by using [PdiskShortener](http://pdiskshortner.net/) API key
 ### Installation
 
