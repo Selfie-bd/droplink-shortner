@@ -21,7 +21,7 @@
             "value": ""
         },
         "API_KEY": {
-            "description": "Get API key from https://PdiskShortner.net/member/tools/api",
+            "description": "Get API key from https://pdiskshortner.net/member/tools/api",
             "required": false
         }
     },
