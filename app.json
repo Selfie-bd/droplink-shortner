@@ -5,8 +5,8 @@
         "telegram",
         "PdiskShortener"
     ],
-    "website": "https://github.com/Mahesh0253/GPlink-bot",
-    "repository": "https://github.com/Mahesh0253/GPlink-bot",
+    "website": "https://github.com/kevinnadar264/pdiskshortner/",
+    "repository": "https://github.com/kevinnadar264/pdiskshortner/",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
