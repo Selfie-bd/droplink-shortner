@@ -4,7 +4,7 @@ Make short link by using [PdiskShortener](http://pdiskshortner.net/) API key
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fkevinn264%2Fpdiskshortner&template=https%3A%2F%2Fgithub.com%2Fkevinn264%2Fpdiskshortner)
 
 ##### Required Variables
 
