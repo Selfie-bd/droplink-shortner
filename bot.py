@@ -18,8 +18,9 @@ bot = Client('pdiskshortner bot',
 @bot.on_message(filters.command('start') & filters.private)
 async def start(bot, message):
     await message.reply(
-        f"**Hi {message.chat.first_name}!**\n\n"
-        "I'm Pdisk link bot. Just send me link and get short link")
+        f"**Hi {message.chat.first_name}!**\n\n"p
+
+        "I am droplink link Generator bot just send me a url I will short it and send you the short link If you want to generate short links from your droplink account kindly do contact" @i_am_zer0)
 
 
 @bot.on_message(filters.regex(r'https?://[^\s]+') & filters.private)
@@ -37,7 +38,7 @@ Here is your  [Short Link]({short_link})''', quote=True)
 
 
 async def get_shortlink(link):
-    url = 'http://pdiskshortner.net/api'
+    url = 'http://droplink.co/api'
     params = {'api': API_KEY, 'url': link}
 
     async with aiohttp.ClientSession() as session:
