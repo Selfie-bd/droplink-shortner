@@ -20,7 +20,7 @@ async def start(bot, message):
     await message.reply(
         f"**Hi {message.chat.first_name}!**\n\n"p
 
-        "I am droplink link Generator bot just send me a url I will short it and send you the short link If you want to generate short links from your droplink account kindly do contact" @i_am_zer0)
+        "I am droplink link Generator bot just send me a url I will short it and send you the short link If you want to generate short links from your droplink account kindly do contact @i_am_zer0")
 
 
 @bot.on_message(filters.regex(r'https?://[^\s]+') & filters.private)
