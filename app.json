@@ -1,12 +1,12 @@
 {
-    "name": "PdiskShortener-Bot",
-    "description": "Make short link by using PdiskShortener API key",
+    "name": "Drop link URL shortner",
+    "description": "Make short link by using Droplink API key",
     "keywords": [
         "telegram",
-        "PdiskShortener"
+        "droplinkShortener"
     ],
-    "website": "https://github.com/kevinnadar264/pdiskshortner/",
-    "repository": "https://github.com/kevinnadar264/pdiskshortner/",
+    "website": "",
+    "repository": "",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
